@@ -2,30 +2,23 @@ body {
     background-color: black;
 }
 
-h1 {
-    color: green;
-    text-align: center;
+
+#mainHeading {
     font-size: 41px;
 }
 
-h3 {
-    color: green;
-    text-align: center;
+#heading3 {
     font-size: 30px;
 }
 
-p title {
+p title, p, h3, h1 {
     color: green;
     text-align: center;
 }
 
-p {
-    color: green;
-    text-align: center;
-}
 
 img {
-    position: center;
+    text-align: center;
 }
 
 
